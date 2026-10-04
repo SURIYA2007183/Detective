@@ -40,7 +40,7 @@ public class Suspect {
         );
 
         Suspect s2 = new Suspect(
-            "S002", "Supreeth", "Mysore", "At college"
+            "S002", "Suprith", "Mysore", "At college"
         );
 
         Suspect s3 = new Suspect(
